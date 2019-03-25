@@ -28,9 +28,10 @@ namespace CollectionsHomework
             Console.WriteLine($"{max} - {list[max]}");
 
             int sum = 0;
-            foreach (var element in list)
-            {
-                sum += element;
+            for(int i = 0; i < list.Count; i++){
+                if(i % 2 == 0){
+                    sum += list[i];
+                }
             }
             Console.WriteLine(sum);
         }
