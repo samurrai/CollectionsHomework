@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\CollectionsHomework\CollectionsHomework\bin\Debug\CollectionsHomework.exe.config
+C:\Users\User\source\repos\CollectionsHomework\CollectionsHomework\bin\Debug\CollectionsHomework.exe
+C:\Users\User\source\repos\CollectionsHomework\CollectionsHomework\bin\Debug\CollectionsHomework.pdb
+C:\Users\User\source\repos\CollectionsHomework\CollectionsHomework\obj\Debug\CollectionsHomework.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CollectionsHomework\CollectionsHomework\obj\Debug\CollectionsHomework.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CollectionsHomework\CollectionsHomework\obj\Debug\CollectionsHomework.exe
+C:\Users\User\source\repos\CollectionsHomework\CollectionsHomework\obj\Debug\CollectionsHomework.pdb
